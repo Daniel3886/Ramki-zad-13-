@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+ <html lang="pl-PL">
+ <html>
+
+    <meta charset="utf-8">
+   <title> Daniel Czerczon 1P </title>  
+   <p><b>Adres: 81-189 </b><i> Gdansk Dabrowszczakow </i><strike> Ul. Mickiewicza </strike><u> 102/35 </u></p><br>
+   
+   Walidator W3C, czyli W3C Markup Validation Service, to podstawowe narzędzie, które pomoże nam tworzyć poprawne konstrukcyjnie strony.
+   Walidator jest internetową bramą do znanego parsera SGML o nazwie SP. 
+   SP pobiera nasz kod i porównuje go z obiektowymi regułami składni nazwanymi DTD.
+   
+  </head>
+<body>
+Daniel Czerczon 
+</body>
+<h1>x<sup>*</sup>x<sup>2</sup>x2</h1>
+   
+   <a href="poczta_czerczon.html"> link do poczty </A> <br>
+     <a href="plik_czerczon.html"> link do pliku </A> <br>
+      <a href="tabela_czerczon.html"> link do tabeli </A> <br>
+       <a href="formularz_czerczon.html"> link do formularzu </A>
+       
+ <p align="right"> <font color="red" size="1" face="Arial"> Daniel Czerczon </p>
+  <p align="right"> <font color="orange" size="2" face="Arial"> Daniel Czerczon </p>
+   <p align="right"> <font color="red" size="3" face="Arial"> Daniel Czerczon </p>
+    <p align="right"> <font color="orange" size="4" face="Arial"> Daniel Czerczon </p>
+     <p align="right"> <font color="red" size="5" face="Arial"> Daniel Czerczon </p>
+      <p align="right"> <font color="orange" size="6" face="Arial"> Daniel Czerczon </p>
+       <p align="right"> <font color="red" size="7" face="Arial"> Daniel Czerczon </p>
+
+  <h1> Daniel </h1><br>
+   <h2>Daniel </h2><br>
+    <h3>Daniel </h3><br>
+     <h4>Daniel</h4><br>
+      <h5>Daniel</h5><br>
+       <h6>Daniel</h6><br> 
+       
+ <h2 face="Arial" :( smutek </h2>
+ <h2 face="Verdana" :c duzy smutek </h2>
+ <h2 face="Times New Roman" :) usmiech </h2>
+ <h2 face="Courier New" >:( zlosc </h2>
+ <h2 face="Georgia" :/ niezrozumienie </h2>
+ <h2 face="Tahoma" -_- bez wyrazu </h2>
+
+<p align="left"> <font color="black" size="5" face="Times New Roman"> Ulubiony aktor: Robert Downey Jr </font> </p> <br>
+<p align="right"> <font color="green" size="4" face="Verdana"> Ulubiony zespol muzyczny: Rammstein </font> </p> <br>
+<center> <p> Data urodzenia: 5 stycznia 1996 roku</p> </center><br>
+<h1>H<sub>2</sub>SO<sub>4</sub></h1>
+
+
+
+<fieldset size="1">
+ <legend color="Orange">
+    <h1 align="right"> zart o informatyku </h1>
+    Dzieci piszą wypracowanie o tym, jak wyobrażają sobie pracę informatyka.<br>
+Nie pisze tylko Karol.<br>
+- Dlaczego nie piszesz? - pyta go nauczycielka.<br>
+- Czekam, aż mi się otworzy edytor tekstu.
+ </legend>
+ </fieldset>
+ <fieldset size="1">
+    <legend>
+     <h1 align="center"> Zart o policjancie</h1>
+     Inspekcja w więzieniu: <br>
+- W tej celi siedzi nasz najzdolniejszy więzień - mówi naczelnik więzienia do przewodniczącego inspekcji. <br>
+- Dlaczego najzdolniejszy? <br>
+- Bo kiedy odsiadywał u nas swój pierwszy wyrok nie umiał czytać i pisać. Nauczyliśmy go, a teraz siedzi za fałszowanie dokumentów.
+    </legend>
+    </fieldset>
+     <fieldset size="1">
+  <legend>
+      <h1 align="left"> Zart o dziadku</h1>
+      Dziadek dał Jasiowi 20 zł na urodziny. <br>
+Mama obserwuje Jasia, wreszcie mówi: <br>
+- Jasiu, podziękuj dziadziusiowi. <br>
+- Ale jak? <br>
+- Powiedz tak, jak ja mówię, gdy tatuś daje mi pieniążki. <br>
+Jasiu zwraca się do dziadzia: <br>
+- Czemu tak mało?
+ </legend>
+ </fieldset>
+
+     <br><br><br>
+     <h1> poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
+     <h1> Ty zaproponuj swoje, związane z informatyką</h1>
+ 
+
+ <UL TYPE=circle>
+      <li><b> Programowania robimy bez końca</b>
+      <li><i> Wraz z pracami domowymi</i>
+      <li><u>i wciąż dostajemy jedynki</u>
+</ul>
+    <UL TYPE=square>
+         <li><b> Java Script, C++, Html, Python<b> 
+         <li><i>Mamy za tę 5 lat zapamietać całkowicie</i>
+         <li> Ale bez względu na to mamy wciąż chemię i plastykę?!
+</ul>
+  <UL TYPE=disk>
+       <li> Jutro będę kupował komputer
+       <li><i>Chciałbym ten który ma 2 dyski i 160 GB<i>
+       <li> Ale żeby taki mieć muszę go samemu stworzyć?
+</ul>
+     <br><br><br>
+     <h2> poniżej są trzy numerowania z różnymi znakami numerowania</h2>
+     <h2> Możliwośći funkcji align</h2>
+                <OL TYPE=I START=1>
+                <LI>1 < p align="left" > - zmiana strony tekstu na lewo
+                <LI>2 < p align="right" > - zmiana strony tekstu na prawo
+                <LI>3 < p align="center" > - zmiana strony tekstu na środek </OL>
+       <br><br><br>
+      <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+       <h3> Ty zaproponuj swoje, związane z informatyką </h3>
+                
+                <UL>
+                       <LI>  Skróty znanych znaczków informatycznych               
+                                <UL> WWW - World Wide Web 
+                                <LI> HTTPS - Hypertext Transfer Protocol Secure
+                                <LI> HTML -  HyperText Markup Language 
+                                <LI> PDF - Portable Document Format
+                         </UL>
+                  <LI> Popularne skróty klawiszowe 
+                          <UL>
+                                 <LI> CTRL C - kopiuj
+                                 <LI> CTRL V - wklej 
+                                 <LI> ALT F4 - zamknij komputer 
+                           </UL>
+           </UL>
+        
